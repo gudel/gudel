@@ -1,6 +1,6 @@
--👋 Hi, I'm known as Sarapz/Endjuro!
+- 👋 Hi, I'm known as Sarapz/Endjuro!
 
--🌱 Livelong learner, sleep enjoyer.
+- 🌱 Livelong learner, sleep enjoyer.
 
 - 📫 How to reach me: 
 ```
